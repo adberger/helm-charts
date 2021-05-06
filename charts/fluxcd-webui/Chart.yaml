@@ -1,0 +1,12 @@
+apiVersion: v2
+name: fluxcd-webui
+description: Unoffical Helm chart for deploying the fluxcd webui
+version: 0.0.1
+type: application
+home: https://github.com/fluxcd/webui
+keywords:
+  - flux
+  - webui
+maintainers:
+  - name: SRE
+    email: sre@bedag.ch
